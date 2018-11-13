@@ -11,4 +11,5 @@ https://www.google.com/maps/d/viewer?ll=37.750541788857575%2C-118.88610336737747
 
 - GIS data from CalFire, loadable from QGIS : http://frap.fire.ca.gov/data/frapgisdata-sw-fireperimeters_download
 
+![alt text](http://qgis.png)
 
